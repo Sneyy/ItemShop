@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_Flamingo"
-        ],
-        "price": 800
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_CrabDance"
+            "Wrap_237_NeonPulse"
         ],
         "price": 500
     },
-    "daily4": {
+    "daily2": {
         "itemGrants": [
-            "AthenaDance:EID_RockPaperScissors"
-        ],
-        "price": 200
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_016_CuddleTeam"
-        ],
-        "price": 300
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaBackpack:BID_026_Brite"
+            "BID_270_StreetDemon"
         ],
         "price": 600
     },
+    "daily3": {
+        "itemGrants": [
+            "Glider_ID_207_InformerMale"
+        ],
+        "price": 800
+    },
+    "daily4": {
+        "itemGrants": [
+            "EID_BreakDance"
+        ],
+        "price": 800
+    },
+    "daily5": {
+        "itemGrants": [
+            "CID_759_Athena_Commando_F_RapVillainess"
+        ],
+        "price": 1200
+    },
+    "daily6": {
+        "itemGrants": [
+            "Pickaxe_ID_368_BananaAgent"
+        ],
+        "price": 500
+    },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
+            "CID_625_Athena_Commando_F_PinkTrooper"
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
+            "CID_819_Athena_Commando_F_NeonTightSuit_B"
         ],
         "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
+            "Pickaxe_ID_508_HistorianMale_6BQSW"
         ],
-        "price": 0
+        "price": 1200
     }
 }
